@@ -12,8 +12,6 @@ void setup()
    robot = new Robot(bras, PIN_SPEED, PIN_FORWARD, PIN_BACKWARD, PIN_SOUND0, PIN_SOUND1, PIN_BAR_SENSOR, PIN_LANCE_BALLE, PIN_DRAPEAU);
       
    pinMode(PIN_SWITCH, INPUT);
-   
-    robot->test();
 } 
   
 void loop() 
