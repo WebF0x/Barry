@@ -6,9 +6,9 @@ Il devait accomplir plusieurs épreuves, telles que faire tomber une tour, lance
 
 Voici le code source du robot de la délégation de l'UQO et de l'UQAM.
 
-Screenshot:
+Parcours:
 -----------
-![Screenshot of the application](/Parcours.png "Screenshot")
+![Parcours](/Parcours.png "Parcours")
 
 License
 -------
